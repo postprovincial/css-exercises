@@ -1,0 +1,19 @@
+.pink-bg{
+    background-color: #ff9c9c;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.fontsize24{
+    font-size: 24px;
+}
+
+#number2-id{
+    color: blue;
+    font-size: 36px;
+}
+
+#number4-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
